@@ -1,7 +1,7 @@
 # Sea-Sharp
 C# code from my Uni days.
 
-his is the author, Mehdi Acho, male, 19yrs Cameroonian studying BSc Computer Science & Software Engineering.
+This is the author, Mehdi Acho, male, 19yrs Cameroonian studying BSc Computer Science & Software Engineering.
 
 hoping to work at google or microsoft or samsung OR SAMSUNG!!!.
 
