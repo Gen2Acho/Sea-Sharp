@@ -1,4 +1,4 @@
-﻿/*using System;
+using System;
 using System.Collections.Generic;
 
 namespace Project_draft
@@ -49,4 +49,4 @@ namespace Project_draft
             ECheck.Shift(structures);
         }
     }
-}*/
+}
