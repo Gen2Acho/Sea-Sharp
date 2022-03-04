@@ -1,0 +1,25 @@
+public class Solution {
+    public bool IsPalindrome(int x) {
+        string check = Convert.ToString(x);
+        string y = "";
+        List<char> stack = new List<char>();
+        foreach(char s in check)
+        {
+            stack.Add(s);
+        }
+        stack.Reverse();
+        foreach(char a in stack)
+        {
+            y = y+a;
+        }
+        if(check == y)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+        
+    }
+}
